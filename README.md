@@ -7,15 +7,11 @@ Handles (Java Metric Generator) -
 
 
 Gaussian (Normal) Distribution for accurate error handling.
-Z -score.
-EWMA.
-DynamoDB, AWS Lambda, 
 
+Z -score, EWMA, DynamoDB, AWS Lambda
 
+Python + Java
 
-
-From Amir:
-___ Vercel ___ + LangChain
 
 
   
